@@ -1,0 +1,4 @@
+namespace g{
+
+    class A
+}
