@@ -38,7 +38,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=simone002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simone002&theme=dark&hide_border=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
